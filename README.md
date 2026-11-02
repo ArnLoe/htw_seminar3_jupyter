@@ -19,7 +19,3 @@ Zusätzlich schätzt ein Random-Forest-Modell die Tagesmitteltemperatur einen Ta
 
 Die Prognose ist ein einfacher Ein-Tages-Schätzwert ohne Prognoseintervall und berücksichtigt außer den letzten fünf Temperaturen und der Jahreszeit keine weiteren Wetterfaktoren. Die DWD-Werte stammen von einer einzelnen Station und beschreiben daher nicht jede Lage in Berlin.
 
-### Dateien
-
-- [DWD-Wetteranalyse und Modell](dwd_wetteranalyse_berlin.ipynb)
-- [Tägliche DWD-Daten als CSV](dwd_berlin_2020_bis_2026-11-01.csv)
